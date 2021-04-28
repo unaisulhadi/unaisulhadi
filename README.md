@@ -19,10 +19,10 @@
 -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://unaisulhadi.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio%20-%23FF0000.svg?&style=flat&logo=Website&logoColor=white"/></a> &nbsp;
-<a href="https://www.linkedin.com/in/unaisulhadi/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:unaisulhadi@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/android_heads"><img src="https://img.shields.io/badge/-@android_heads-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://unaisulhadi.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio%20-%23FF0000.svg?&style=flat&logo=Website&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/unaisulhadi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:unaisulhadi@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://instagram.com/android_heads" target="_blank"><img src="https://img.shields.io/badge/-@android_heads-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 
 ### 🛠 &nbsp;Tech Stack
