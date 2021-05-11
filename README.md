@@ -38,11 +38,13 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
 ### ⚡ &nbsp;Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unaisulhadi&show_icons=true&locale=en&layout=compact" alt="unaisulhadi" /></p> &nbsp;
-<p>‎</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unaisulhadi&show_icons=true&locale=en" alt="unaisulhadi" /></p>
-&nbsp;
+<table>
+<tr>
+  <td>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unaisulhadi&show_icons=true&locale=en&layout=compact" alt="unaisulhadi" /></td>
+<td><img align="center" src="https://github-readme-stats.vercel.app/api?username=unaisulhadi&show_icons=true&locale=en" alt="unaisulhadi" /></td>
+  </tr>
+  </table>
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unaisulhadi&" alt="unaisulhadi" /></p>-->
 
 <h3 align="left">Connect with me:</h3>
