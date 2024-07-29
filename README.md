@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Unaisul Hadi</h1>
-<h3 align="center">A passionate Mobile App Developer</h3>
+<h3 align="center">Web | Django | Android | Kotlin | Python</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=unaisulhadi&label=Profile%20views&color=0e75b6&style=flat" alt="unaisulhadi" /> </p>
 
